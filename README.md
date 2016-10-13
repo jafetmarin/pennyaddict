@@ -1,0 +1,2 @@
+# pennyaddict
+my first repository
